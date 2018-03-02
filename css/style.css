@@ -16,8 +16,8 @@ img{
 
 .header>p{
 	position: absolute;
-	margin-top: -500px;	
-	margin-left: 1000px;
+	margin-top: -50%;	
+	margin-left: 50%;
 	font-family: 'Russo One', sans-serif;
 	font-size: 72px;
 	color: #333;
